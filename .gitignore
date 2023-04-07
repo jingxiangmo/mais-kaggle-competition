@@ -1,0 +1,6 @@
+
+data/test_images.npy
+.DS_Store
+data/label_int_to_str_mapping.csv
+data/train_images.npy
+data/train_labels.csv
